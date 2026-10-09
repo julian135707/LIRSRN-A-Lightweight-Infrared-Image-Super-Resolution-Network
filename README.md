@@ -14,7 +14,7 @@ Official PyTorch implementation of the paper:
 ## 📌 News
 - **[2024-05]** 🚀 LIRSRN was presented at **IEEE ISCAS 2024**.
 - **[2024-05]** 📄 Paper is publicly accessible on [IEEE Xplore](https://ieeexplore.ieee.org/document/10558676).
-- **[2024-xx]** 💻 Code and pretrained weights released!
+- **[2024-05]** 💻 Code and pretrained weights released!
 
 ---
 
